@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\student\source\repos\dataconteiners\forwardlist2.0\source.cpp(179): warning C4326: return type of 'main' should be 'int' instead of 'void'
